@@ -152,7 +152,7 @@ font-family: "FuturaCyrillicBook";
 }
 
 .section-01 p{
-    font-family: "Aksara\ Bali\ Galang.woff";
+    font-family: "FuturaCyrillicBook";
     line-height: 32px;
     font-size: 22px;
 }
@@ -191,7 +191,7 @@ font-family: "FuturaCyrillicBook";
   }
 .section-02 p{
     font-size: 24px;
-    font-family: "Aksara\ Bali\ Galang.woff";
+    font-family: "FuturaCyrillicBook";
     line-height: 32px;
 }
 
@@ -210,9 +210,11 @@ font-family: "FuturaCyrillicBook";
 }
 .text h4{
     font-size: 24px;
+    font-family: "FuturaCyrillicBook";
 }
 .text p{
     font-size: 22px;
+    font-family: "FuturaCyrillicBook";
 }
 .part01 img{
     width: 502px;
@@ -231,9 +233,11 @@ font-family: "FuturaCyrillicBook";
 }
  .text h4{
     font-size: 24px;
+    font-family: "FuturaCyrillicBook";
 }
 .text p{
     font-size: 22px;
+    font-family: "FuturaCyrillicBook";
 }
 .part02 img{
     width: 502px;
@@ -269,6 +273,7 @@ font-family: "FuturaCyrillicBook";
     color: #FFFFFF;
     z-index: 1;
     width: 400px;
+    font-family: "FuturaCyrillicBook";
     position: absolute;
     left: 20%;
     top: 23%;
@@ -319,6 +324,7 @@ font-family: "FuturaCyrillicBook";
     position: relative;
     left: 50%;
     top: 20%;
+    font-family: "FuturaCyrillicBook";
 }
 .testimonial{
     width: 1110px;
@@ -329,6 +335,7 @@ font-family: "FuturaCyrillicBook";
 }
 .testimonial h1{
     text-align: center;
+    font-family: "FuturaCyrillicBook";
 }
 .testimonial .reviews{
     display: flex;
@@ -337,9 +344,11 @@ font-family: "FuturaCyrillicBook";
 }
 .testimonial h3{
     font-size: 24px;
+    font-family: "FuturaCyrillicBook";
 }
 .testimonial p{
     font-size: 22px;
+    font-family: "FuturaCyrillicBook";
 }
 
 .review1{
@@ -362,6 +371,7 @@ font-family: "FuturaCyrillicBook";
 .character h5{
     font-size: 18px;
     margin-left: 30px;
+    font-family: "FuturaCyrillicBook";
 }
 .arrow{
     width: 42px;
@@ -392,11 +402,13 @@ footer{
 }
 .footer-menu1 h5 a {
     font-size: 22px;
+    font-family: "FuturaCyrillicBook";
     text-decoration: none;
     color: #131821;
 }
 .footer-menu1 p a{
     font-size: 20px;
+    font-family: "FuturaCyrillicBook";
     text-decoration: none;
     color: #131821;
 }
